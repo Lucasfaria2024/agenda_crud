@@ -55,20 +55,20 @@
         <h2>Cadastrar Contato</h2>
         <form action="" method="post" enctype="multipart/form-data">
             <label for="nome">Nome</label>
-            <input type="text" id="nome" name="nome" required> <br>
+            <input type="text" id="nome" name="nome" required> 
 
             <label for="sobrenome">Sobrenome</label>
-            <input type="text" id="nome" name="sobrenome" required> <br>
+            <input type="text" id="nome" name="sobrenome" required> 
 
             <label for="nascimento">Nascimento</label>
-            <input type="date" id="nome" name="nascimento" required> <br>
+            <input type="date" id="nome" name="nascimento" required> 
 
             <label for="endereco">Endereco</label>
-            <input type="text" id="nome" name="endereco" required> <br>
+            <input type="text" id="nome" name="endereco" required> 
 
             <label for="telefone">Telefone</label>
-            <input type="number" id="nome" name="telefone" required> <br>
-            
+            <input type="number" id="nome" name="telefone" required> 
+
 
             <button type="submit">Cadastrar</button>
             
